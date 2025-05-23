@@ -8,6 +8,7 @@ var quotes = [
   "“Be who you are and say what you feel, because those who mind don`t matter, and those who matter don`t mind.”\n-- Bernard M. Baruch",
   "“You`ve gotta dance like theres nobody watching,\nLove like you`ll never be hurt,\nSing like theres nobody listening,\nAnd live like it`s heaven on earth.”\n-- William W. Purkey",
   "“Watch the quotes fall like snow, may it bring you happiness and a little smile!”\n-- Bassem Al-Abyad",
+  "“Only one Nino, the loveliest and prettiest of all”\n-- Nino",
 ];
 
 var quoteBtn = document.getElementById("quoteBtn");
