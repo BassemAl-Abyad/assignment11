@@ -1,3 +1,3 @@
-# assignment11
+# a11 JS Quotes
 
 JS quotes, random generator
